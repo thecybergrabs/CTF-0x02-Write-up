@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/thecybergrabs/resources/blob/main/logo.png" /></p>
+
 # CTF-0x02-Write-up
 
 [CTFTIME EVENT](https://ctftime.org/event/1232)
