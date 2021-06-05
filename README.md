@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/thecybergrabs/resources/blob/main/logo.png" /></p>
+<p align="center"><img src="https://github.com/thecybergrabs/resources/blob/main/thecybergrabs.png" /></p>
 
 # CTF-0x02-Write-up
 
